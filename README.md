@@ -4,7 +4,6 @@
    * Terraform
    * Python
    * .NET
-- 🌱 I’m currently studying to get an AWS certification
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
